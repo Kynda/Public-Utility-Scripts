@@ -44,3 +44,6 @@ Reads a new-line seperated list of directories and makes each of them.
 ####August 20, 2013
 - Initial Commit
 
+##License
+This code is released under the [MIT License](http://opensource.org/licenses/MIT)
+
