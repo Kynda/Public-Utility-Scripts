@@ -5,3 +5,5 @@ practice
 .pydevproject
 */.project
 */.pydevproject
+data/*
+reports/*
