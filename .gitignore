@@ -7,3 +7,4 @@ practice
 */.pydevproject
 data/*
 reports/*
+*.pyc
